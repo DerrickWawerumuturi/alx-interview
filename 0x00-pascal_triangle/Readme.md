@@ -1,0 +1,3 @@
+# Interview
+
+pascal's triangle
